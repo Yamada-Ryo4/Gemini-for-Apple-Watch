@@ -20,14 +20,6 @@
     *   支持切换不同模型 (Gemini Pro, Flash 等)。
 *   **🚀 极致性能**: 基于 SwiftUI 和 Swift Concurrency (Async/Await) 构建，针对 watchOS 进行内存和网络优化。
 
-## 📸 截图预览
-
-| 对话界面 | 历史记录 | 发送图片 | 设置页面 |
-|:---:|:---:|:---:|:---:|
-| <img src="Assets/screenshot_chat.png" width="180" alt="Chat View"> | <img src="Assets/screenshot_history.png" width="180" alt="History View"> | <img src="Assets/screenshot_image.png" width="180" alt="Image Picker"> | <img src="Assets/screenshot_settings.png" width="180" alt="Settings"> |
-
-*(注意：请将截图放入项目的 `Assets` 文件夹或替换上述链接)*
-
 ## 🛠️ 安装与运行
 
 ### 环境要求
