@@ -30,7 +30,7 @@
 ### 编译步骤
 1.  克隆本项目到本地：
     ```bash
-    git clone https://github.com/你的用户名/GeminiWatchApp.git
+    git clone https://github.com/Yamada-Ryo4/Gemini-for-Apple-Watch.git
     ```
 2.  使用 Xcode 打开项目文件。
 3.  在 `Signing & Capabilities` 中修改 **Team** 为你自己的 Apple ID 开发团队。
@@ -70,4 +70,4 @@ App 采用 **BYOK (Bring Your Own Key)** 模式：
 
 ## 📄 开源协议
 
-MIT License
+Apache License
